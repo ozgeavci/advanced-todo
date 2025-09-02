@@ -20,11 +20,6 @@ localStorage persistence, and inline editing.
 -   ✏️ Inline editing & 🗑️ Deleting
 -   🧹 Clear all completed tasks
 
-------------------------------------------------------------------------
-
-## 📸 Screenshot
-
-![Advanced Todo Screenshot](./screenshot.png)
 
 ------------------------------------------------------------------------
 
